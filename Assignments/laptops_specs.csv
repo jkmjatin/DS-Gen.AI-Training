@@ -1,0 +1,11 @@
+Laptop,Brand,Processor,RAM (GB),Storage (GB),Price ($)
+Laptop A,Brand X,Intel i5,8,512,447
+Laptop B,Brand Y,Intel i7,16,1024,1422
+Laptop C,Brand Z,AMD Ryzen 5,8,256,965
+Laptop D,Brand X,Intel i3,16,1024,635
+Laptop E,Brand Y,Intel i9,16,1024,1413
+Laptop F,Brand Z,AMD Ryzen 7,8,512,502
+Laptop G,Brand X,Intel i5,16,256,454
+Laptop H,Brand Y,AMD Ryzen 5,8,256,535
+Laptop I,Brand Z,Intel i7,4,1024,1125
+Laptop J,Brand X,Intel i9,16,512,539
